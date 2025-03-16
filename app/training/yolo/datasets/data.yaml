@@ -1,0 +1,13 @@
+names:
+- defected
+- good
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: master-degree-4utul
+  url: https://universe.roboflow.com/jarekmasterdegree/master-degree-4utul/dataset/1
+  version: 1
+  workspace: jarekmasterdegree
+test: /mnt/data/documents/MasterDegree/my_project/app/training/yolo/datasets/test/images
+train: /mnt/data/documents/MasterDegree/my_project/app/training/yolo/datasets/train/images
+val: /mnt/data/documents/MasterDegree/my_project/app/training/yolo/datasets/valid/images
