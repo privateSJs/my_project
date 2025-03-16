@@ -10,7 +10,17 @@ YOLO_CONFIG_DIR = DATASET_DIR / "data.yaml"
 TRAIN_DIR = DATASET_DIR / "train" / "images"
 VAL_DIR = DATASET_DIR / "valid" / "images"
 TEST_DIR = DATASET_DIR / "test" / "images"
-MODEL_TRAINED_PATH = DATASET_DIR / "runs" / "detect" / "train" / "weights" / "best.pt"
+MODEL_TRAINED_PATH = (
+    DATASET_DIR
+    / "runs"
+    / "detect"
+    / "train"
+    / "weights"
+    / "best.pt"
+    / "train"
+    / "weights"
+    / "best.pt"
+)
 
 # Configuration for logger and path to file -> logger
 LOGS_DIR = BASE_DIR / "utils" / "logs"
@@ -23,3 +33,5 @@ log_level = os.getenv("LOG_LEVEL", "INFO").upper()
 
 # Path to assets with prediction product
 PREDICT_DIR = BASE_DIR / "assets" / "resized"
+
+print(PREDICT_DIR)

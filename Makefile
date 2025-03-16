@@ -2,7 +2,7 @@
 VENV_PATH=$(PWD)/.venv/bin/python
 TRAIN_SCRIPT=app.training.yolo.start_train_yolo
 FIX_YOLO_SCRIPT = app.utils.check_fix_yolo_yaml
-PREDICT_IMAGE?=assets
+TEST_IMAGE?=app/assets/resized
 
 # ✅ Uruchomienie treningu YOLO
 train:

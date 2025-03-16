@@ -71,7 +71,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--image",
         type=str,
-        default=PREDICT_DIR,
+        default=str(PREDICT_DIR),
         help="Path to the image for inference.\nThe model will detect objects in the specified image.",
     )
 

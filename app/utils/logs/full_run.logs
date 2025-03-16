@@ -12,3 +12,27 @@
 2025-03-16 14:42:44 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
 2025-03-16 14:42:44 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
 2025-03-16 14:42:44 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 17:42:24 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 17:42:24 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 17:42:24 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 17:42:24 - my-project - ERROR - [Module: train_model, in function: test] - ❌ Error: Parameter data_yaml must be provided.
+2025-03-16 17:43:26 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 17:43:26 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 17:43:26 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 17:43:26 - my-project - ERROR - [Module: train_model, in function: test] - ❌ Error: Parameter data_yaml must be provided.
+2025-03-16 17:46:16 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 17:46:16 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 17:46:16 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 17:46:16 - my-project - ERROR - [Module: train_model, in function: test] - ❌ Error: Parameter data_yaml must be provided.
+2025-03-16 17:58:04 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 17:58:04 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 17:58:04 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 18:02:51 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 18:02:51 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 18:02:51 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 18:06:11 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 18:06:11 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 18:06:11 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 18:06:29 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 18:06:29 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 18:06:29 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!

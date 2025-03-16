@@ -1,3 +1,3 @@
-2025-03-16 14:42:44 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
-2025-03-16 14:42:44 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
-2025-03-16 14:42:44 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 18:06:29 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 18:06:29 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 18:06:29 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
