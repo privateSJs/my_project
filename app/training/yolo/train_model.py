@@ -1,8 +1,9 @@
 from pathlib import PosixPath
 from ultralytics import YOLO
 from app.utils.logger import logger
-from app.config.config import MODEL_TRAINED_PATH
+from app.config.config import MODEL_TRAINED_FILE, DATASET_DIR, SAVE_TRAINED_PATH
 from app.utils.decorators.validator import validate_args
+
 
 class YoloTrainerConfig:
     _device_list = ["cpu", "gpu"]
@@ -36,7 +37,9 @@ class YoloTrainerConfig:
             self.img_size = img_size
             self.batch_size = batch_size
             self.device = device
-            self.model_trained_path = MODEL_TRAINED_PATH
+            self.save_trained_Path = SAVE_TRAINED_PATH
+            self.model_trained_file = MODEL_TRAINED_FILE
+            self.dataset_dir = DATASET_DIR
         except (TypeError, ValueError) as e:
             logger.error(f"❌ Error: Variable initialization failed!", exc_info=True)
             raise
@@ -72,7 +75,7 @@ class YoloTrainer(YoloTrainerConfig):
             imgsz=self.img_size,
             batch=self.batch_size,
             device=self.device,
-            project=str(self.model_trained_path),
+            project=str(self.save_trained_Path),
         )
         return train_results
 
@@ -87,7 +90,12 @@ class YoloTrainer(YoloTrainerConfig):
             logger.error("❌ Error: Parameter data_yaml must be provided.")
             raise ValueError(f"Invalid image_path '{image_path}'.")
 
-        __model = YOLO(self.model_trained_path)
-
-        test_results = __model(image_path, conf=confidence, save=save, show=show)
+        model = YOLO(self.model_trained_file)
+        test_results = model.predict(
+            source=image_path,
+            conf=confidence,
+            save=save,
+            show=show,
+            project=str(self.save_trained_Path),
+        )
         return test_results

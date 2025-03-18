@@ -36,3 +36,93 @@
 2025-03-16 18:06:29 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
 2025-03-16 18:06:29 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
 2025-03-16 18:06:29 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 22:28:14 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 22:28:14 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 22:28:14 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 22:31:24 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 22:31:24 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 22:31:24 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 22:34:16 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 22:34:16 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 22:34:16 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 22:39:44 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 22:39:44 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 22:39:44 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 22:41:04 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 22:41:04 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 22:41:04 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 22:41:42 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 22:41:42 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 22:41:42 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 22:46:02 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 22:46:02 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 22:46:02 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 22:46:32 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 22:46:32 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 22:46:32 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 22:47:54 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 22:47:54 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 22:47:54 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-16 22:48:54 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-16 22:48:54 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-16 22:48:54 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:11:50 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:11:50 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:11:50 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:20:00 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:20:00 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:20:00 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:21:18 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:21:18 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:21:18 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:23:36 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:23:36 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:23:36 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:26:21 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:26:21 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:26:21 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:27:23 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:27:23 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:27:23 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:32:49 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:32:49 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:32:49 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:38:11 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:38:11 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:38:11 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:39:12 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:39:12 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:39:12 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:39:42 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:39:42 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:39:42 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:40:05 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:40:05 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:40:05 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:45:18 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:45:18 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:45:18 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:46:55 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:46:55 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:46:55 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:47:56 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:47:56 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:47:56 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:49:19 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:49:20 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:49:20 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:50:07 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:50:07 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:50:07 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:50:42 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:50:42 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:50:42 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:51:16 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:51:16 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:51:16 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:53:43 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:53:43 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:53:43 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!
+2025-03-18 18:59:38 - my-project - INFO - [Module: train_model, in function: __init__] - ℹ️ Info: Model will work on the CPU.
+2025-03-18 18:59:38 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Model 'yolov8n.pt' initialized successfully!
+2025-03-18 18:59:38 - my-project - INFO - [Module: train_model, in function: __init__] - ✅ Initialization variables in class initialized successfully!

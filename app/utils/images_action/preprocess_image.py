@@ -33,6 +33,6 @@ def preprocess_images(input_folder_path, output_folder_path, target_size=(640, 3
 
 
 preprocess_images(
-    input_folder_path="/home/jarek9917/Dokumenty/MasterDegree/my_project/assets/preprocessed",
-    output_folder_path="/home/jarek9917/Dokumenty/MasterDegree/my_project/assets/resaized",
+    input_folder_path="/home/jarek9917/Dokumenty/MasterDegree/my_project/app/assets/preprocessed",
+    output_folder_path="/home/jarek9917/Dokumenty/MasterDegree/my_project/app/assets/resized",
 )

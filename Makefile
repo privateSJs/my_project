@@ -1,6 +1,6 @@
 # 🔥 Training parameters
 VENV_PATH=$(PWD)/.venv/bin/python
-TRAIN_SCRIPT=app.training.yolo.start_train_yolo
+TRAIN_SCRIPT=app.training.yolo.manage_yolo
 FIX_YOLO_SCRIPT = app.utils.check_fix_yolo_yaml
 TEST_IMAGE?=app/assets/resized
 
@@ -40,7 +40,7 @@ help:
 	@echo "      --data_yaml=YOLO_CONFIG_DIR (dataset configuration, default set in config file)"
 	@echo ""
 	@echo "    📌 **Note:**"
-	@echo "      The 'data_yaml' file is set **only** in the configuration file: `config/config.py`"
+	@echo "      The 'data_yaml' file is set **only** in the configuration file: `app/config/config.py`"
 	@echo "      → The dataset configuration **cannot** be passed as an argument in 'make train'."
 	@echo ""
 	@echo "  🔎 **Run inference:**"
@@ -51,5 +51,5 @@ help:
 	@echo "    make clean"
 	@echo "      → Automatically removes all 'runs/' and 'detect/' directories in the project."
 	@echo ""
-	@echo "📌 **To see available arguments for training and prediction, run:**"
-	@echo "    make help-args"
+	@echo "📌 ** To see available arguments for training and prediction, run: **"
+	@echo "    	 make help-args"
