@@ -25,4 +25,3 @@ log_level = os.getenv("LOG_LEVEL", "INFO").upper()
 # Path to assets with prediction product
 PREDICT_DIR = BASE_DIR / "assets" / "resized"
 
-print(PREDICT_DIR)

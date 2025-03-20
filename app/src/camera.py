@@ -2,10 +2,18 @@ import cv2
 from ultralytics import YOLO
 from app.config.config import MODEL_TRAINED_FILE
 
-for i in range(5):  # Testujemy kilka indeksów
-    cap = cv2.VideoCapture(i)
-    if cap.isOpened():
-        print(f"✅ Kamera dostępna na indeksie {i}")
-        cap.release()
-    else:
-        print(f"❌ Kamera niedostępna na indeksie {i}")
+cap = cv2.VideoCapture(0)  # Jeśli nie działa, spróbuj zmienić na 1 lub 2
+
+while True:
+    ret, frame = cap.read()
+    if not ret:
+        print("Nie udało się przechwycić obrazu")
+        break
+
+    cv2.imshow("Test kamery w OpenCV", frame)
+
+    if cv2.waitKey(1) & 0xFF == ord("q"):
+        break
+
+cap.release()
+cv2.destroyAllWindows()
